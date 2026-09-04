@@ -78,3 +78,7 @@ screens/
 assets/                  # App icons and splash screen
 android/                 # Native Android project files
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
